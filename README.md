@@ -24,6 +24,7 @@ hdparm --security-erase for SATA drives</br>
 💾 Sync and verification steps to ensure completion and data integrity.</br>
 
 <b>Usage:</b></br>
+chmod +x wipe-drive.sh</br>
 sudo ./wipe-drive.sh</br>
 
 <b>Requirements:</b></br>
