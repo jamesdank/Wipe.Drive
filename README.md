@@ -1,4 +1,7 @@
-🧹 Wipe Drive — Secure Disk Erasure Utility
+⚠️ DANGER: This permanently destroys data. Run from a live USB or another machine.
+Do NOT run on a mounted device. Double-check the target drive.
+
+🧹 Wipe Drive — Secure Disk Erasure Utility</br>
 
 <b>Description:</b></br>
 wipe-drive.sh is a Linux-based interactive utility for securely erasing storage devices before disposal, resale, or OS reinstallation.
