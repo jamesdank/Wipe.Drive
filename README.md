@@ -1,5 +1,5 @@
-⚠️ <u><b>DANGER: This permanently destroys data. Run from a live USB or another machine.
-Do NOT run on a mounted device. Double-check the target drive.</b></u>
+⚠️ <font color="red"><b>DANGER: This permanently destroys data. Run from a live USB or another machine.
+Do NOT run on a mounted device. Double-check the target drive.</b></font>
 
 🧹 Wipe Drive — Secure Disk Erasure Utility</br>
 
